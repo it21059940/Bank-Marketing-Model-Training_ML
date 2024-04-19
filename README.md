@@ -5,11 +5,15 @@ Predicting the likelihood of a bank client subscribing to a term deposit is the 
 
 Outcomes of Solving the Problem
 •	By predicting which clients are more likely to subscribe to a term deposit, the bank can prioritize its marketing efforts more effectively by targeting only relevant customers, leading to higher conversion rates.
+
 •	Reduces wastage of resources on clients less likely to subscribe, allowing for a more efficient allocation of marketing budgets and personnel, thus leading to resource optimization.
+
 •	This Improves customer experience by reducing unnecessary contacts to uninterested, indirectly benefiting the bank's reputation and client satisfaction.
+
 •	Insights can be gained from the model to form broader business strategies, such as product development and customer service improvements, beyond immediate marketing strategies.
 
 Problem Type - Supervised Learning Binary Classification
+
 Dataset Source - https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 Algorithms Used
